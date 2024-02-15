@@ -1,2 +1,2 @@
 # <ins>Fake-ViT</ins>:
-## A Visual Transformer Implementation to detect AI-generated images
+## A Replication of the Vision Transformer paper (2021, Alexey et al.) for the task of detecting AI-generated images
